@@ -1,0 +1,4 @@
+How to reset your password:
+1. Go to the login page.
+2. Click "Forgot Password".
+3. Enter your email and follow the instructions.
